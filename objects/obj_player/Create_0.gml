@@ -1,0 +1,1 @@
+speedWalk = 10;
